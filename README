@@ -1,0 +1,17 @@
+# Basic Calculator Program
+
+## Description
+This is a simple calculator program written in Python. The program takes two numbers and an operator from the user, performs the operation, and prints the result. The operations supported are addition, subtraction, multiplication, and division.
+
+## Features
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+
+## Usage
+1. Clone the repository or download the project files.
+2. Open the project folder and run the `calculator.py` file in Python.
+
+## Example
+
